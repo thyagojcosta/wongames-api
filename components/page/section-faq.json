@@ -8,7 +8,7 @@
   "attributes": {
     "titles": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "questions": {
       "type": "component",

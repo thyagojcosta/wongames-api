@@ -8,8 +8,8 @@
   "attributes": {
     "lable": {
       "type": "string",
+      "required": false,
       "default": "Comprar",
-      "required": true,
       "maxLength": 20
     },
     "url": {
